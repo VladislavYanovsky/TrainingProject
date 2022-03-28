@@ -1,0 +1,26 @@
+PODS:
+  - GTAlertCollection (1.0.2)
+  - Realm (10.20.1):
+    - Realm/Headers (= 10.20.1)
+  - Realm/Headers (10.20.1)
+  - RealmSwift (10.20.1):
+    - Realm (= 10.20.1)
+
+DEPENDENCIES:
+  - GTAlertCollection
+  - RealmSwift
+
+SPEC REPOS:
+  trunk:
+    - GTAlertCollection
+    - Realm
+    - RealmSwift
+
+SPEC CHECKSUMS:
+  GTAlertCollection: 0c3d4b59eab4f18c5c6b4c440243b50849d4b786
+  Realm: fac5ecd031fcb81171627b74944c885662d4b266
+  RealmSwift: 9b02d25acb46a14756bde9893abb99e2e3675923
+
+PODFILE CHECKSUM: 84195f226d53b1fcd401ba0cd551a9863fe01e5a
+
+COCOAPODS: 1.10.1

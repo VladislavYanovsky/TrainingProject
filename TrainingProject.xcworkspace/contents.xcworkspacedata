@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Workspace
+   version = "1.0">
+   <FileRef
+      location = "group:TrainingProject.xcodeproj">
+   </FileRef>
+   <Group
+      location = "group:TrainingProject"
+      name = "TrainingProject">
+      <Group
+         location = "group:Registration Module"
+         name = "Registration Module">
+         <FileRef
+            location = "group:Validator.swift">
+         </FileRef>
+         <FileRef
+            location = "group:RegistrationViewController.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:AictivityIndicator"
+         name = "AictivityIndicator">
+         <FileRef
+            location = "group:CustomAlert.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Core Data"
+         name = "Core Data">
+         <FileRef
+            location = "group:TrainingProject.xcdatamodeld">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:ServiceLocator"
+         name = "ServiceLocator">
+      </Group>
+      <Group
+         location = "group:TableViewCells"
+         name = "TableViewCells">
+         <FileRef
+            location = "group:PetsListTableViewCell.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PetsListTableViewCell.xib">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Assets.xcassets"
+         name = "Assets.xcassets">
+         <Group
+            location = "group:AppIcon.appiconset"
+            name = "AppIcon.appiconset">
+            <FileRef
+               location = "group:60.png">
+            </FileRef>
+            <FileRef
+               location = "group:58.png">
+            </FileRef>
+            <FileRef
+               location = "group:120-1.png">
+            </FileRef>
+            <FileRef
+               location = "group:120.png">
+            </FileRef>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <FileRef
+               location = "group:180.png">
+            </FileRef>
+            <FileRef
+               location = "group:80.png">
+            </FileRef>
+            <FileRef
+               location = "group:40.png">
+            </FileRef>
+            <FileRef
+               location = "group:87.png">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:AccentColor.colorset"
+            name = "AccentColor.colorset">
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+         <Group
+            location = "group:open-eye.imageset"
+            name = "open-eye.imageset">
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+            <FileRef
+               location = "group:open-eye.png">
+            </FileRef>
+         </Group>
+         <FileRef
+            location = "group:Contents.json">
+         </FileRef>
+         <Group
+            location = "group:close-eye.imageset"
+            name = "close-eye.imageset">
+            <FileRef
+               location = "group:close-eye.png">
+            </FileRef>
+            <FileRef
+               location = "group:Contents.json">
+            </FileRef>
+         </Group>
+      </Group>
+      <Group
+         location = "group:Models"
+         name = "Models">
+         <FileRef
+            location = "group:UserResponse.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Base.lproj"
+         name = "Base.lproj">
+         <FileRef
+            location = "group:LaunchScreen.storyboard">
+         </FileRef>
+         <FileRef
+            location = "group:Main.storyboard">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Networkservice"
+         name = "Networkservice">
+         <FileRef
+            location = "group:AppError.swift">
+         </FileRef>
+         <FileRef
+            location = "group:NetworkService.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Method.swift">
+         </FileRef>
+         <FileRef
+            location = "group:Route.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:Pet Module"
+         name = "Pet Module">
+         <FileRef
+            location = "group:/Users/vladislavyanovsky/coherent-ios-training-vladislav-yanovsky/TrainingProject/TrainingProject/AppDelegate.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PetsList.swift">
+         </FileRef>
+         <FileRef
+            location = "group:PetsListViewController.swift">
+         </FileRef>
+      </Group>
+      <Group
+         location = "group:User Module"
+         name = "User Module">
+         <FileRef
+            location = "group:UserModel.swift">
+         </FileRef>
+         <FileRef
+            location = "group:UserViewController.swift">
+         </FileRef>
+         <FileRef
+            location = "group:UserViewControllerModel.swift">
+         </FileRef>
+      </Group>
+      <FileRef
+         location = "group:Info.plist">
+      </FileRef>
+      <Group
+         location = "group:Realm"
+         name = "Realm">
+         <FileRef
+            location = "group:RealmUserPersistence.swift">
+         </FileRef>
+      </Group>
+   </Group>
+   <FileRef
+      location = "group:Pods/Pods.xcodeproj">
+   </FileRef>
+</Workspace>
